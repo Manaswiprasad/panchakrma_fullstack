@@ -183,6 +183,10 @@ Through this project, I gained hands-on experience in:
 * Git & GitHub Workflow
 * Project Deployment Concepts
 
+ ##Screenshots
+ <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/c2aff808-5624-4a98-85b7-2e332f92d58d" />
+
+
 ---
 
 ## Author
