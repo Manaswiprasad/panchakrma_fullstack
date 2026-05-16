@@ -1,0 +1,1 @@
+# panchakrma_fullstack
