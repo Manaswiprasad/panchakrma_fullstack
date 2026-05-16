@@ -1,0 +1,7 @@
+com\panchakarma\model\Center.class
+com\panchakarma\controller\PanchakarmaController.class
+com\panchakarma\PanchakarmaApplication.class
+com\panchakarma\repository\RemedyRepository.class
+com\panchakarma\repository\CenterRepository.class
+com\panchakarma\service\DataSeeder.class
+com\panchakarma\model\Remedy.class
