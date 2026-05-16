@@ -185,6 +185,8 @@ Through this project, I gained hands-on experience in:
 
  ##Screenshots
  <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/c2aff808-5624-4a98-85b7-2e332f92d58d" />
+ <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/4dad3d0e-4e2c-40b7-b3e6-817c0b1119fa" />
+
 
 
 ---
